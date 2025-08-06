@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+matplotlib
+scipy
+httpx
+beautifulsoup4
+lxml
+openai
